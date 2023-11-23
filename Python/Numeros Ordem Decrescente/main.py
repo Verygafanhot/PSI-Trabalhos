@@ -1,3 +1,4 @@
+print("Exercicio 6")
 def ler_numeros():
     num1 = int(input("Escreva o primeiro numero: "))
     num2 = int(input("Escreva o segundo numero: "))
